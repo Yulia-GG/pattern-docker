@@ -78,7 +78,7 @@ prometheus:
 
 ```
 
-![Скриншот-1](https://github.com/Yulia-GG/pattern-docker/img01.png)
+![Скриншот-1](https://github.com/Yulia-GG/pattern-docker/blob/main/img01.png)
 
 ### Задание 4
 
@@ -131,9 +131,9 @@ grafana:
 Настроить использование контейнерами одной сети: имеем внутреннюю сеть networks gribya-my-netology-hw.
 Запустите сценарий в detached режиме: добавить нужный флаг при запуске команды docker compose up - -d`
 
-![Скриншот-2](https://github.com/Yulia-GG/pattern-docker/img3.png)
-![Скриншот-3](https://github.com/Yulia-GG/pattern-docker/img5.png)
-![Скриншот-4](https://github.com/Yulia-GG/pattern-docker/img7.png)
+![Скриншот-2](https://github.com/Yulia-GG/pattern-docker/blob/main/img3.png)
+![Скриншот-3](https://github.com/Yulia-GG/pattern-docker/blob/main/img5.png)
+![Скриншот-4](https://github.com/Yulia-GG/pattern-docker/blob/main/img7.png)
 
 
 ### Задание 7
@@ -198,10 +198,10 @@ services:
 
 ```
 
-![Скриншот-5](https://github.com/Yulia-GG/pattern-docker/img9.png)
+![Скриншот-5](https://github.com/Yulia-GG/pattern-docker/blob/main/img9.png)
 
-![Скриншот-6](https://github.com/Yulia-GG/pattern-docker/img8.png)
+![Скриншот-6](https://github.com/Yulia-GG/pattern-docker/blob/main/img8.png)
 
 ### Задание 8
 
-![Скриншот-7](https://github.com/Yulia-GG/pattern-docker/img10.png)
+![Скриншот-7](https://github.com/Yulia-GG/pattern-docker/blob/main/img10.png)
