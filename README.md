@@ -198,9 +198,9 @@ services:
 
 ```
 
-![Скриншот-5](https://github.com/Yulia-GG/pattern-docker/blob/main/img9.png)
+![Скриншот-5](https://github.com/Yulia-GG/pattern-docker/blob/main/img09.png)
 
-![Скриншот-6](https://github.com/Yulia-GG/pattern-docker/blob/main/img8.png)
+![Скриншот-6](https://github.com/Yulia-GG/pattern-docker/blob/main/img08.png)
 
 ### Задание 8
 
